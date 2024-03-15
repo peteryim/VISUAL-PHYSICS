@@ -1,4 +1,4 @@
-# VISUALPHYSICS
+# VISUAL PHYSICS
 High school instruction in physics
 This is a public resource for classroom instruction in physics.
 
